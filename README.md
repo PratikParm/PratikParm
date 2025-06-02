@@ -9,4 +9,4 @@ Fake News Detector: Engineered a machine learning solution to detect misinformat
 Cloud Segmentation: Designed a computer vision model for precise segmentation of cloud patterns in satellite imagery.
 I am passionate about leveraging AI to solve real-world problems, and always eager to collaborate on impactful projects.
 
-Connect with me on LinkedIn: [Insert your LinkedIn profile link here]
+Connect with me on LinkedIn: https://linkedin.com/in/pratikparmarlinked
